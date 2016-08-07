@@ -1,3 +1,3 @@
 print ("goodbye")
 print ("bb")
-pirnt ("for me!")
+print ("for me!")
